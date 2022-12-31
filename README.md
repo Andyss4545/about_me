@@ -1,6 +1,6 @@
-Hi👋, I’m Omosebi Temitope Andrew
+### Hi👋, I’m Omosebi Temitope Andrew
  
-I am a MERN STACK engineer that is passionate about building simple and complex situations 
+### I am a MERN STACK engineer that is passionate about building simple and complex web applications.
 
 - 🌱 I’m currently learning Python, Django, Devops.
 - ❔ Ask me any thing relating to JavaScript,HTML,ReactJS,CSS,ExpressJS, and NodeJs...
